@@ -1,3 +1,5 @@
+# CodeQuiz
+
 <img src="./Asset/gif.gif" alt="GIF">
 
 •	Title:
@@ -10,6 +12,6 @@ It`s a simple game in which asks questions and at the end of game, it returns yo
 HTML, CSS, JS
 
 •           Access to Game:
- https://yasha6081.github.io/
-# CodeQuiz
-# CodeQuiz
+  https://yasha6081.github.io/CodeQuiz
+
+
